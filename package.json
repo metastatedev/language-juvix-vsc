@@ -3,6 +3,11 @@
     "displayName": "Language Juvix",
     "description": "Syntax Highlighting for Juvix",
     "version": "0.0.1",
+    "publisher": "metastate",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:metastatedev/language-juvix-vsc.git"
+    },
     "engines": {
         "vscode": "^1.47.0"
     },
