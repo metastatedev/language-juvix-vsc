@@ -8,6 +8,7 @@
         "type": "git",
         "url": "git@github.com:metastatedev/language-juvix-vsc.git"
     },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.47.0"
     },
